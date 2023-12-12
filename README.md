@@ -2,7 +2,7 @@
 
 ### What is media queries?
 
-Nedia queries in CSS are a way to apply styles to a web page based on the size of the given screen. We can have rather large screen, and we can also have a very small one, like a mobile phone. This is very useful for creating responsive web page designs that adapt to different screen and devices.
+Media queries in CSS are a way to apply styles to a web page based on the size of the given screen. We can have rather large screen, and we can also have a very small one, like a mobile phone. This is very useful for creating responsive web page designs that adapt to different screen and devices.
 
 How do we do this then? Of course by using media queries.
 
@@ -14,7 +14,7 @@ Here us a basic example:
 
     nav {
         background-color: red
-    
+
     }
 }
 ```
